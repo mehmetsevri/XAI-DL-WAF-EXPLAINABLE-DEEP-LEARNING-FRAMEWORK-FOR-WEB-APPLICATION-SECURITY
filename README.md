@@ -1,4 +1,4 @@
-# XAI-DL-WAF: A NOVEL EXPLAINABLE AI FRAMEWORK FOR DEEP LEARNING BASED WEB APPLICATION SECURITY
+# XAI-WAF: A NOVEL EXPLAINABLE AI FRAMEWORK FOR DEEP LEARNING BASED WEB APPLICATION SECURITY
 
 Since the paper has not been published yet, the datasets and codes related to the study are shared with authorization. For authorization information, please send an e-mail to mehmetsevri@gmail.com.
 
